@@ -142,9 +142,11 @@ between booking, user, and event management modules.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msaadirfan-max&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=msaadirfan-max&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msaadirfan-max&layout=compact&theme=github_dark&hide_border=true)
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaadirfan-max&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
