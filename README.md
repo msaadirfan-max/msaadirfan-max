@@ -13,7 +13,7 @@
 
 ## About Me
 
-Software engineering student at ITU Lahore, currently completing an internship building AI-powered web applications. I work across the full stack — from training ML models and serving them via FastAPI microservices, to building React dashboards and deploying on AWS.
+Software engineering student at ITU Lahore, currently completing an AI-powered web applications. I work across the full stack — from training ML models and serving them via FastAPI microservices, to building React dashboards and deploying on AWS.
 
 I'm interested in the intersection of machine learning and production software engineering: systems where a model isn't just a notebook but a real service with auth, logging, and a UI that non-technical users can actually operate.
 
@@ -146,6 +146,6 @@ between booking, user, and event management modules.
 
 </div>
 
-*Open to internship and junior developer opportunities in full-stack, ML engineering, and cloud.*
+*Open to junior developer opportunities in full-stack, ML engineering, and cloud.*
 
 </div>
