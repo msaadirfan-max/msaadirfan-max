@@ -142,9 +142,7 @@ between booking, user, and event management modules.
 
 <div align="center">
 
-<picture>
-  <img src="https://github.com/msaadirfan-max/msaadirfan-max/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</picture>
+<img src="https://raw.githubusercontent.com/msaadirfan-max/msaadirfan-max/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
