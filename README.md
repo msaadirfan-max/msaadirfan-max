@@ -62,7 +62,7 @@ I'm interested in the intersection of machine learning and production software e
 ## Projects
 
 ### AI Surface Defect Detection System
-*Internship Project · 2025*
+*Internship Project · 2026*
 
 Full-stack quality assurance system that replaces manual visual inspection with an
 explainable AI pipeline. Fine-tuned ResNet-50 on the MVTec AD dataset across four
@@ -77,7 +77,7 @@ with real-time Grad-CAM heatmap visualization.
 ---
 
 ### CI/CD Build Failure Prediction
-*MLOps · 2025*
+*MLOps · 2026*
 
 MLOps pipeline that predicts CI/CD build failures before they happen. Fetched real GitHub
 Actions data from 48 open-source repositories, trained LightGBM with Optuna hyperparameter
